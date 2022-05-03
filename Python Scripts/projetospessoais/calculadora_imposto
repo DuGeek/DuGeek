@@ -1,0 +1,4 @@
+
+calcular_imposto = lambda x: x * 0.3
+
+print(calcular_imposto(x))
